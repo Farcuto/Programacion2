@@ -12,3 +12,7 @@ ___
 **para correr el codigo dentro de un navegador utilizar el siguiente link:**
 
 [codingground swift](https://www.tutorialspoint.com/compile_swift_online.php)
+
+___
+
+[Video](https://youtu.be/Vtg8kHHAa4Y)
